@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheo Fernando</h1>
+![Screenshot from 2024-03-07 23-11-14](https://github.com/MatheoFernando/MatheoFernando/assets/124298977/64e9a720-93ed-4557-b989-0aea66a568cc)<h1 align="center">Hi 👋, I'm Matheo Fernando</h1>
 <h3 align="center">A Web Developer</h3>
 - 🔭 I’m currently working on [Recognaction of image to Text](https://recognaction-text.vercel.app/)
 <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://media.giphy.com/mediav1.Y2lkPTc5MGI3NjExb3g3Nzd0NnczYnQyZW1rY2lmN2h4M3Y1MnJkaW1oc21raXdxMTFiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif)" alt="joáo fernando" height="30" width="40" />
@@ -19,5 +19,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MatheoFernando&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
